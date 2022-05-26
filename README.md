@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Adelina, I'm a Tech Evangelist @ Form3. 
+
+Interested in learning more about Form3? Check out our [careers site](https://www.form3.tech/careers)
+
+P.S. Cats are pretty cool! 
+
 <!--
 **adelina-simion-form3/adelina-simion-form3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
